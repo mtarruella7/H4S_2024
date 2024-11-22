@@ -1,0 +1,1 @@
+This is an example file that was added to the branch Adding_File. 
